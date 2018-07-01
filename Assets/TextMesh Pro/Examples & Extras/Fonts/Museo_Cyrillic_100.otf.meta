@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6762041674de77d48b105ff7723c9219
+timeCreated: 1517319881
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Museo Cyrl
+  fontNames:
+  - Museo Cyrl
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 220ed5080c4ed39499941de6dd0f7820, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
